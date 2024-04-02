@@ -1,2 +1,2 @@
-header {background-color: aqua;color: aliceblue;}
+header {background-color: aqua;color: aliceblue;display: flex;justify-content: space-around;align-items: center;padding: 24px;}
 .cabecalho-imagem{width: 20%;}
